@@ -12,3 +12,5 @@ export default () => {
         </div>
     )
 }
+
+console.log('test')
